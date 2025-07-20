@@ -1,7 +1,8 @@
 <!-- Rishi Rana GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/Rishi-Rana01/Rishi-Rana01/raw/main/assets/rishi-rana-banner.png" alt="Rishi Rana Banner" width="100%" />
+ <img src="https://github.com/Rishi-Rana01/Rishi-Rana01/raw/main/assets/rishi-cyberpunk-banner.gif.png" alt="Rishi Rana Cyberpunk Banner" width="100%" height="50%" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishi Rana</h1>
