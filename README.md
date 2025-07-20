@@ -8,9 +8,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Rana</h1>
 <h3 align="center">💻 Web Developer | ☁️ Cloud Enthusiast | 🧠 AI Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+love+building+cool+web+apps;Open+to+collaborations+%F0%9F%91%BB;Always+learning+new+tech+%F0%9F%9A%80;Let’s+connect!+%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&size=22" />
-</p>
 
 ---
 
