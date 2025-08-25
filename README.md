@@ -52,7 +52,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔄 [Currency Converter](https://github.com/Rishi-Rana01/currency-converter) | Real-time exchange rate app with Firebase history | `HTML` `JS` `Firebase` |
-| ✋ [Sign Language Translator](https://github.com/Rishi-Rana01/sign-language-translator) | Converts sign gestures to text using AI | `ML` `HTML/CSS` `JS` |
+| 🍵 [Get-Me-A-Chai] (https://github.com/Rishi-Rana01/get-me-a-chai)| `React` `Tailwind` `MongoDB` `Next.js` |
 
 ---
 
