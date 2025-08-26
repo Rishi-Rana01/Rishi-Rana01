@@ -61,7 +61,7 @@ Here are some awesome projects from my repos 👇
 | ☁️ [X.COM](https://github.com/Rishi-Rana01/X.COM) | Twitter/X style UI clone. | `React` `Tailwind` | - |
 | 🔐 [React-Login](https://github.com/Rishi-Rana01/React-Login) | Secure login system with Firebase. | `React` `Firebase` | - |
 | 🌦️ [Weather-App](https://github.com/Rishi-Rana01/weather-app) | Real-time weather updates. | `HTML` `CSS` `JavaScript` | - |
-| 🔄 [Currency Converter](https://github.com/Rishi-Rana01/currency-converter) | Real-time exchange rate app with Firebase history. | `HTML` `JS` `Firebase` | - |
+| 🔄 [Currency Converter](https://github.com/Rishi-Rana01/currency-converter) | Real-time exchange rate app with Firebase history. | `HTML` `JS` `Firebase` | [Live](https://currencyconverterapp-30dbf.firebaseapp.com) |
 | ☕ [Get-Me-A-Chai](https://github.com/Rishi-Rana01/get-me-a-chai) | Support creator web-app. | `React` `Next.js` `MongoDB` | - |
 
 ---
