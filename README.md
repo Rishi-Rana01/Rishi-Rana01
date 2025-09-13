@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&logoColor=white&style=for-the-badge) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) 
+![python](https://img.shields.io/badge/-python-007396?logo=python&logoColor=white&style=for-the-badge) 
 
 ### ⚙️ Frameworks / Libraries  
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) 
